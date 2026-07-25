@@ -1,0 +1,10 @@
+streamlit>=1.60.0
+anthropic
+edge-tts
+google-genai
+moviepy==1.0.3
+pillow
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
